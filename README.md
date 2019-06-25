@@ -25,7 +25,7 @@ The default Twitter format shown below.
 Using the default settings, this allows for 4096 unique IDs to be generated every millisecond, per Node ID.
 
 ## Usage:
-* [example](https://github.com/piaohua/snowflake-python/examples)
+* [example](https://github.com/piaohua/snowflake-python/tree/master/examples)
 
 ## References:
 *  https://github.com/bwmarrin/snowflake
